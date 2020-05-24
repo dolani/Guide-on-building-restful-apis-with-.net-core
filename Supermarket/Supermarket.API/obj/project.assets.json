@@ -874,11 +874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\SEEsharp\\Supermarket\\Supermarket.API\\Supermarket.API.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\SEEsharp\\Guide-on-building-restful-apis-with-.net-core\\Supermarket\\Supermarket.API\\Supermarket.API.csproj",
       "projectName": "Supermarket.API",
-      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\SEEsharp\\Supermarket\\Supermarket.API\\Supermarket.API.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\SEEsharp\\Guide-on-building-restful-apis-with-.net-core\\Supermarket\\Supermarket.API\\Supermarket.API.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\SEEsharp\\Supermarket\\Supermarket.API\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\dolani\\dev.developer\\SEEsharp\\Guide-on-building-restful-apis-with-.net-core\\Supermarket\\Supermarket.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
